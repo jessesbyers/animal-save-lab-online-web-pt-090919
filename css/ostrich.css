@@ -21,7 +21,7 @@ html {
   by the alligator. As the screen gets smaller then he will run on top of Mr. Alligator's
    back.*/
 
-   @media screen and (max-width: 1200px) and (min-width: 600px) {
+   @media screen and (max-width: 1400px) and (min-width: 600px) {
      #ostrich {
        position: relative;;
        top: -100px
