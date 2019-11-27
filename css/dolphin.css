@@ -26,6 +26,6 @@ html {
  rotate() if you wish to turn the animals. A single media query should be used to solve
  each page.*/
 
- /*For the dolphin, using min-width and max-width help her rotate and jump up through 
+ /*For the dolphin, using min-width and max-width to help her rotate and jump up through 
  the hoop from screen sizes of 642px to 1090px. Note: you can use transform: rotate()
  command to accomplish this. */
