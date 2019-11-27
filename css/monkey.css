@@ -20,7 +20,7 @@ html {
  from screen size of 406px to 1170px keeping him safe from their affection.*/
  @media screen and (max-width: 1170px) and (min-width: 406px) {
    img {
-     position: relative;
+     position: absolute;
      top: 0
    }
  }
