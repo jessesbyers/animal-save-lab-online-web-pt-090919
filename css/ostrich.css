@@ -25,5 +25,6 @@ html {
      #ostrich {
        position: relative;
        bottom: 100px;
+       right: 0px
      }
    }
