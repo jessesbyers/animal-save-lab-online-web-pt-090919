@@ -10,3 +10,13 @@ html {
 
 /* Write your solution here */
 
+/*Take advantage of media queries using max-width for desktop down and min-width for mobile
+ up designs. Also utilize positioning: absolute, as well as properties such as top:, 
+ left:, right: ,bottom: to set the animals' positioning. You can also use CSS transform: 
+ rotate() if you wish to turn the animals. A single media query should be used to solve 
+ each page.*/
+
+ /*For the ostrich, starting with the screen larger and dragging it smaller (desktop down) 
+ have the ostrich jump upwards 100px closer to the top of the screen to avoid being eaten
+  by the alligator. As the screen gets smaller then he will run on top of Mr. Alligator's
+   back.*/
