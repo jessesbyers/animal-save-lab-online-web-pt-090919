@@ -34,5 +34,6 @@ html {
   img {
     transform: rotate(-90deg);
     position: relative;
+    bottom: 800px
   }
 }
