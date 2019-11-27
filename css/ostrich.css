@@ -24,6 +24,6 @@ html {
    @media screen and (max-width: 1400px) and (min-width: 600px) {
      #ostrich {
        position: absolute;
-       top: 100px
+       top: 80px
      }
    }
